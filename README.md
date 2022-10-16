@@ -13,4 +13,6 @@ Bookshelf Apps
 
 ## Screenshots
 
-... on process
+![screenshot_1.png](/screenshots/screenshot_1.png)
+
+![screenshot_2.png](/screenshots/screenshot_2.png)
