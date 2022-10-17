@@ -9,7 +9,7 @@ Bookshelf Apps
 
 ## Certificate
 
-... on process
+[View](https://www.dicoding.com/certificates/MEPJK5EN4X3V)
 
 ## Screenshots
 
