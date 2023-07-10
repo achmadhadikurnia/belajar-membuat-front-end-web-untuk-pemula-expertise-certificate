@@ -8,11 +8,8 @@ Pelajari lebih dalam JavaScript, DOM manipulation, dan web storage untuk meningk
 Bookshelf Apps
 
 ## Certificate
-
 [View](https://www.dicoding.com/certificates/MEPJK5EN4X3V)
 
 ## Screenshots
-
 ![screenshot_1.png](/screenshots/screenshot_1.png)
-
 ![screenshot_2.png](/screenshots/screenshot_2.png)
